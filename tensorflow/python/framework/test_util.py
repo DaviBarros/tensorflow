@@ -141,6 +141,7 @@ except ImportError:
 
 def is_asan_enabled() -> bool:
   """Check if ASAN is enabled."""
+  #comentário adicionado
   return pywrap_sanitizers.is_asan_enabled()
 
 
