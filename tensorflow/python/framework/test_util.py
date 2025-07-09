@@ -4157,7 +4157,7 @@ def _fake_gradient_tape_context_manager():
 
       def gradient(self, y, x, grad_ys=None):
         result = gradients_impl.gradients(y, x, grad_ys)
-
+	print("Exibindo uma frase")
         # Unlike `tape.gradient()`, `tf.gradients()` returns a list for a single
         # element. So unpack if needed to match `tape.gradient()` behavior.
         if not isinstance(x, (list, tuple)):
