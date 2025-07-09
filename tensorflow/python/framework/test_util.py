@@ -146,7 +146,7 @@ def is_asan_enabled() -> bool:
 
 def is_msan_enabled() -> bool:
   """Check if MSAN is enabled."""
-  ptint("Exibindo uma mensagem de saída")
+  print("Exibindo uma mensagem de saída")
   return pywrap_sanitizers.is_msan_enabled()
 
 
