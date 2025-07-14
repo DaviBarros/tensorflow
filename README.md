@@ -96,7 +96,7 @@ For more examples, see the
 [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to
 uphold this code.**
 
-**We use [GitHub issues](https://github.com/tensorflow/tensorflow/issues) for
+**We use [GitHub Issues](https://github.com/tensorflow/tensorflow/issues) for
 tracking requests and bugs, please see
 [TensorFlow Forum](https://discuss.tensorflow.org/) for general questions and
 discussion, and please direct specific questions to
@@ -121,7 +121,7 @@ apply fixes to bugs or security vulnerabilities:
 ## Continuous build status
 
 You can find more community-supported platforms and configurations in the
-[TensorFlow SIG Build community builds table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
+[TensorFlow SIG Build Community Builds Table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
 
 ### Official Builds
 
@@ -159,8 +159,8 @@ Build Type                    | Status                                          
 *   [TensorFlow Code Search](https://cs.opensource.google/tensorflow/tensorflow)
 
 Learn more about the
-[TensorFlow community](https://www.tensorflow.org/community) and how to
-[contribute](https://www.tensorflow.org/community/contribute).
+[TensorFlow Community](https://www.tensorflow.org/community) and how to
+[Contribute](https://www.tensorflow.org/community/contribute).
 
 ## Courses
 
