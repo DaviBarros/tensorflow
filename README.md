@@ -111,9 +111,9 @@ Follow these steps to patch a specific version of TensorFlow, for example, to
 apply fixes to bugs or security vulnerabilities:
 
 *   Clone the TensorFlow repo and switch to the corresponding branch for your
-    desired TensorFlow version, for example, branch `r2.8` for version 2.8.
-*   Apply (that is, cherry-pick) the desired changes and resolve any code
-    conflicts.
+  desired TensorFlow version, for example, branch `r2.8` for version 2.8.
+*   Apply the desired changes (that is, cherry-pick) and resolve any code
+  conflicts.
 *   Run TensorFlow tests and ensure they pass.
 *   [Build](https://www.tensorflow.org/install/source) the TensorFlow pip
     package from source.
@@ -121,7 +121,7 @@ apply fixes to bugs or security vulnerabilities:
 ## Continuous build status
 
 You can find more community-supported platforms and configurations in the
-[TensorFlow SIG Build community builds table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
+[TensorFlow SIG Build Community Builds Table](https://github.com/tensorflow/build#community-supported-tensorflow-builds).
 
 ### Official Builds
 
@@ -159,8 +159,8 @@ Build Type                    | Status                                          
 *   [TensorFlow Code Search](https://cs.opensource.google/tensorflow/tensorflow)
 
 Learn more about the
-[TensorFlow community](https://www.tensorflow.org/community) and how to
-[contribute](https://www.tensorflow.org/community/contribute).
+[TensorFlow Community](https://www.tensorflow.org/community) and how to
+[Contribute](https://www.tensorflow.org/community/contribute).
 
 ## Courses
 
