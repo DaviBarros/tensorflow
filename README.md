@@ -56,7 +56,7 @@ $ pip install tensorflow
 ```
 
 Other devices (DirectX and MacOS-metal) are supported using
-[Device plugins](https://www.tensorflow.org/install/gpu_plugins#available_devices).
+[Device Plugins](https://www.tensorflow.org/install/gpu_plugins#available_devices).
 
 A smaller CPU-only package is also available:
 
@@ -87,13 +87,13 @@ b'Hello, TensorFlow!'
 ```
 
 For more examples, see the
-[TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
+[TensorFlow Tutorials](https://www.tensorflow.org/tutorials/).
 
 ## Contribution guidelines
 
 **If you want to contribute to TensorFlow, be sure to review the
-[contribution guidelines](CONTRIBUTING.md). This project adheres to TensorFlow's
-[code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to
+[Contribution Guidelines](CONTRIBUTING.md). This project adheres to TensorFlow's
+[Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to
 uphold this code.**
 
 **We use [GitHub issues](https://github.com/tensorflow/tensorflow/issues) for
